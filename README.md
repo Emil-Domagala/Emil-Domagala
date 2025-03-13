@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Full-Stack Developer skilled in JavaScript, TypeScript, Vue.js, React.js, Node.js and SQL. I specialize in building responsive user interfaces and enjoy solving complex challenges.<br><br>I’m Working On:<br>Building my portfolio and expanding my technical expertise.<br>Improving my coding skills with platforms like LeetCode and GreatFrontEnd.
+I’m a Full-Stack Developer skilled in JavaScript, TypeScript, Vue.js, React.js, Node.js and SQL. I specialize in building responsive user interfaces and enjoy solving complex challenges.<br><br>I’m Working On:<br>Building my portfolio and expanding my technical expertise.<br>Currently I'm focused on learning Java and microservices.<br>Improving my coding skills with platforms like LeetCode and GreatFrontEnd.
 
 
 ## 🌐 Socials:
